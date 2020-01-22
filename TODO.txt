@@ -1,0 +1,50 @@
+Testar sequencia das telas.
+Animação Take off.
+
+-Inimigos.
+
+-Verificar lentidão/lag do inimigo.
+
+
+===SONS===
+- Hit
+- Quando solta a bolha.
+- Infla e desinfla.
+- Agacha e desagha.
+
+
+-Splash na água.
+-Morte
+
+-Deixar intuitivo o áudio de flutuar.
+
+posicoes iniciais.
+
+Metal
+x = -5.72
+y = -1.12
+
+Lab
+x = -8.56
+y = -0.29
+
+Tribal
+x = -259.22
+y = 1.69
+
+
+G0
+x = -13.25
+y = 12.62
+
+
+morrer agua.
+
+Alterar a fonte das imagens de instruçao.
+
+
+
+
+
+
+

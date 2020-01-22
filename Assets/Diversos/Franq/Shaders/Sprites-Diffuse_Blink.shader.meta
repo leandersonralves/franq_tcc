@@ -1,0 +1,7 @@
+fileFormatVersion: 2
+guid: 6a9421fe5add74e4c8e08d86803e3d48
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _BlinkTex: {instanceID: 0}
+  userData: 
